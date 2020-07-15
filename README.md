@@ -1,16 +1,16 @@
-### Hi there 👋
+## Привет 👋
 
-<!--
-**MrLivixx/MrLivixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Добро пожаловать в мой профиль,можешь тут посмотреть на мои проекты и почитать информацию.
+- Я програмирую на JavaScript.
+- Параллельно являюсь модератором на [BotiCord.top](https://boticord.top)
+- Разработчиком на [Okane](https://discord.gg/XPrJgtS)
+### Чуть ниже можешь ознакомиться с моими проектами
+- [DreamBot](https://github.com/sqdshcom/dreambot-v2)
+- [Simple-Discord-bot](https://github.com/sqdshcom/simple-discord-bot)
 
-Here are some ideas to get you started:
+И так есть некоторые веши ниже в закрепе⬇️ ^^ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
