@@ -10,4 +10,4 @@
 
 И так есть некоторые веши ниже в закрепе⬇️ ^^ 
 
-[![Discord](https://discordapp.com/api/guilds/117523346618318850/widget.png)](https://discord.gg/GG9Dkhg)
+[![Discord](https://discordapp.com/api/guilds/662635194884292611/widget.png)](https://discord.gg/GG9Dkhg)
