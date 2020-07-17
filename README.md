@@ -8,6 +8,10 @@
 - [DreamBot](https://github.com/sqdshcom/dreambot-v2)
 - [Simple-Discord-bot](https://github.com/sqdshcom/simple-discord-bot)
 
-И так есть некоторые веши ниже в закрепе⬇️ ^^ 
+Заходите на наш дискорд сервер! 
 
 [![Discord](https://discordapp.com/api/guilds/662635194884292611/widget.png)](https://discord.gg/GG9Dkhg)
+
+
+И так же есть некоторые веши ниже в закрепе⬇️ ^^ 
+
