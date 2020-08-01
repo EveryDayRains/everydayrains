@@ -12,6 +12,13 @@
 
 [![Discord](https://discordapp.com/api/guilds/662635194884292611/widget.png)](https://discord.gg/GG9Dkhg)
 
+<a href="https://github.com/MrLivixx">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MrLivixx&show_icons=true&include_all_commits=true&theme=dark" alt="MrLivixx's github stats"
+</a>
+<a href="https://github.com/MrLivixx">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrLivixx&layout=compact&theme=dark" />
+</a>
+
 
 И так же есть некоторые веши ниже в закрепе⬇️ ^^ 
 
