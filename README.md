@@ -11,10 +11,14 @@
 Заходите на наш дискорд сервер! 
 
 [![Discord](https://discordapp.com/api/guilds/662635194884292611/widget.png)](https://discord.gg/GG9Dkhg)
+ <div style="width: 50%">
+        <a href="https://discord.gg/GG9Dkhg"><img src="https://invidget.switchblade.xyz/GG9Dkhg?theme=light" /></a>
+    </div>
 
 <a href="https://github.com/MrLivixx">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MrLivixx&show_icons=true&include_all_commits=true&theme=dark" alt="MrLivixx's github stats"
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MrLivixx&show_icons=true&include_all_commits=true&theme=synthwave" alt="MrLivixx's github stats"
 </a>
+  
 <a href="https://github.com/MrLivixx">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrLivixx&layout=compact&theme=dark" />
 </a>
