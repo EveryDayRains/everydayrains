@@ -12,12 +12,6 @@
 
 [![Discord](https://discordapp.com/api/guilds/662635194884292611/widget.png)](https://discord.gg/GG9Dkhg)
 
-<a href="https://discord.gg/GG9Dkhg"><img src="https://invidget.switchblade.xyz/GG9Dkhg?theme=light" /></a>
-    
-зайди сюда если не сложно)
-
-<a href="https://discord.gg/pe8bAHB"><img src="https://invidget.switchblade.xyz/pe8bAHB?theme=light" /></a>
-
 
 
 <a href="https://github.com/MrLivixx">
