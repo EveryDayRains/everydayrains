@@ -13,7 +13,7 @@
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">   
 
 
-Места где вы можете меня найти :eyes:
++ Места где вы можете меня найти :eyes:
 
 <a href="https://steamcommunity.com/id/livixx/">
   <img align="left" alt="Steam" width="31px" src="https://raw.githubusercontent.com/MrLivixx/MrLivixx/master/assets/steam.svg" />
@@ -39,18 +39,15 @@
   <img align="left" alt="Discord" width="31px" src="https://raw.githubusercontent.com/MrLivixx/MrLivixx/master/assets/discord.svg" />
 </a>
 
-
 <br>
 
 
-
-
-<a href="https://github.com/MrLivixx">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MrLivixx&show_icons=true&include_all_commits=true&theme=synthwave" alt="MrLivixx's github stats"
+<a href="https://github.com/mrlivixx">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mrlivixx&show_icons=true&include_all_commits=true&theme=dark" alt="ThePersigg's github stats" />
 </a>
- 
- 
-
+<a href="https://github.com/mrlivixx">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mrlivixx&layout=compact&theme=dark" />
+</a>
 
 И так же есть некоторые веши ниже в закрепе⬇️ ^^ 
 
