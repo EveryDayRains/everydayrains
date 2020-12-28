@@ -44,7 +44,7 @@
 
 
 <a href="https://github.com/mrlivixx">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mrlivixx&show_icons=true&count_private=true&theme=dark" alt="MrLivixx's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mrlivixx&show_icons=true&count_private=true&theme=dark">
 </a>
 <a href="https://wakatime.com/@MrLivixx">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrLivixx&show_icons=true&hide_border=true&theme=dark">
