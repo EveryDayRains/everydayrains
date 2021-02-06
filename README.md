@@ -44,7 +44,7 @@
 
 
 <a href="https://github.com/mrlivixx">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mrlivixx&show_icons=true&count_private=true&theme=dark">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mrlivixx&show_icons=true&count_private=true&theme=dark&hide_border=true">
 </a>
 <br>
 <a href="https://wakatime.com/@MrLivixx">
