@@ -48,7 +48,7 @@
 </a>
 <br>
 <a href="https://wakatime.com/@MrLivixx">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrLivixx&show_icons=true&hide_border=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrLivixx&show_icons=true&hide_border=true&theme=dark&layout=compact">
 </a>  
 
 
