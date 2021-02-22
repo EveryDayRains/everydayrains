@@ -32,7 +32,7 @@
 </a>
 
 <a href="mailto:me@mrlivixx.me">
-  <img align="left" alt="mailYa" width="31px" src="https://raw.githubusercontent.com/MrLivixx/MrLivixx/master/assets/mail.svg" />
+  <img align="left" alt="mailYa" width="31px" src="https://raw.githubusercontent.com/MrLivixx/MrLivixx/master/assets/email.svg" />
 </a>
 
 <a href="https://discord.gg/tp8Mytu">
