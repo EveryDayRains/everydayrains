@@ -2,11 +2,11 @@
 
 Добро пожаловать в мой профиль,можешь тут посмотреть на мои проекты и почитать информацию.
 - Я програмирую на JavaScript.
-- Параллельно являюсь модератором на [BotiCord.top](https://boticord.top)
-- Разработчиком на [Okane](https://discord.gg/XPrJgtS), [Paradox](https://sdc.su/paradox), [NeppedCord](https://discord.gg/neppedcord)
+- Параллельно являюсь модератором на [BotiCord.top](https://boticord.top), [JeggyBot Community](https://discord.gg/96PkvW55Xt)
+- Разработчиком на [Okane](https://discord.gg/XPrJgtS), [Paradox](https://sdc.su/paradox)
 ### Чуть ниже можешь ознакомиться с моими проектами
-- [DreamBot](https://github.com/sqdshcom/dreambot-v2)
-- [Simple-Discord-bot](https://github.com/sqdshcom/simple-discord-bot)
+- [DreamBot](https://github.com/sqdsh/dreambot-v2)
+- [Simple-Discord-bot](https://github.com/sqdsh/simple-discord-bot)
 
 + **Изучаемые языки и инструменты:**
 
