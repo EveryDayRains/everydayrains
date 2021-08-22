@@ -1,16 +1,16 @@
 ## Привет 👋
 
-Добро пожаловать в мой профиль,можешь тут посмотреть на мои проекты и почитать информацию.
+Добро пожаловать в мой профиль, здесь ты можешь ознакомится с моей информацией и увидеть мои проекты.
 - Я програмирую на JS/TS.
-- Параллельно являюсь модератором на [BotiCord.top](https://boticord.top), [JeggyBot Community](https://discord.gg/96PkvW55Xt)
-- Разработчиком на [Okane](https://discord.gg/XPrJgtS), [Paradox](https://sdc.su/paradox)
+- Разработчиком на [Crown](https://crownmc.club/?ref=livixx)
+- Параллельно являюсь модератором на [JeggyBot Community](https://discord.gg/96PkvW55Xt)
 ### Чуть ниже можешь ознакомиться с моими проектами
 - [DreamBot](https://github.com/sqdsh/dreambot-v2)
 - [Simple-Discord-bot](https://github.com/sqdsh/simple-discord-bot)
 
 + **Изучаемые языки и инструменты:**
 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">  
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png">   
 
 
 + Места где вы можете меня найти :eyes:
@@ -27,7 +27,7 @@
   <img align="left" alt="osu!" width="31px" src="https://raw.githubusercontent.com/MrLivixx/MrLivixx/master/assets/osu.png" />
 </a> 
 
-<a href="https://t.me/livixx">
+<a href="tg://resolve?domain=livixx">
   <img align="left" alt="Telegram" width="31px" src="https://raw.githubusercontent.com/MrLivixx/MrLivixx/master/assets/telegram.svg" />
 </a>
 
