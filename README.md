@@ -27,7 +27,7 @@
   <img align="left" alt="osu!" width="31px" src="https://raw.githubusercontent.com/MrLivixx/MrLivixx/master/assets/osu.png" />
 </a> 
 
-<a href="tg://resolve?domain=livixx">
+<a href="https://t.me/livixx">
   <img align="left" alt="Telegram" width="31px" src="https://raw.githubusercontent.com/MrLivixx/MrLivixx/master/assets/telegram.svg" />
 </a>
 
