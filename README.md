@@ -51,5 +51,8 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrLivixx&show_icons=true&hide_border=true&theme=blueberry&layout=compact">
 </a>  
 
+![status](https://dev.discordprofiles.me/badge/status/502948927809781763?simple=true)
+![playing](https://dev.discordprofiles.me/badge/playing/502948927809781763)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/502948927809781763)](https://dev.discordprofiles.me/openspotify/502948927809781763)
 
 И так же есть некоторые вещи ниже в закрепе⬇️ ^^ 
