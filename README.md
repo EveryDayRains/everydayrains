@@ -51,6 +51,12 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrLivixx&show_icons=true&hide_border=true&theme=blueberry&layout=compact">
 </a>  
 
+<p align="centre">
+  <a href="#">
+      <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MrLivixx&repo=github-visitors-badge&countColor=%22272e">
+   </a>
+</p>
+
 ![status](https://dev.discordprofiles.me/badge/status/502948927809781763?simple=true)
 ![playing](https://dev.discordprofiles.me/badge/playing/502948927809781763)
 [![spotify](https://dev.discordprofiles.me/badge/spotify/502948927809781763)](https://dev.discordprofiles.me/openspotify/502948927809781763)
