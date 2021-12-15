@@ -2,8 +2,7 @@
 
 Добро пожаловать в мой профиль, здесь ты можешь ознакомиться с моей информацией и увидеть мои проекты.
 - Я програмирую на JS/TS.
-- Разработчиком на [Crown](https://crownmc.club/?ref=livixx)
-- Параллельно являюсь модератором на [JeggyBot Community](https://discord.gg/96PkvW55Xt)
+- Работаю фриланс, подробнее [тут](https://lolz.guru/threads/3049946/)
 ### Чуть ниже можешь ознакомиться с моими проектами
 - [DreamBot](https://github.com/sqdsh/dreambot-v2)
 - [Simple-Discord-bot](https://github.com/sqdsh/simple-discord-bot)
