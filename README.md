@@ -2,15 +2,14 @@
 
 Добро пожаловать в мой профиль, здесь ты можешь ознакомиться с моей информацией и увидеть мои проекты.
 - Я програмирую на TS.
-### Чуть ниже можешь ознакомиться с моими проектами
 - [Genshin Info](https://github.com/genshin-info)
 
-+ **Изучаемые языки и инструменты:**
+### **Изучаемые языки и инструменты:**
 
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png">   
 
 
-+ Места где вы можете меня найти :eyes:
+### Места где вы можете меня найти :eyes:
 
 <a href="https://steamcommunity.com/id/livixx/">
   <img align="left" alt="Steam" width="31px" src="https://raw.githubusercontent.com/MrLivixx/MrLivixx/master/assets/steam.svg" />
