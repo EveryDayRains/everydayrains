@@ -2,10 +2,8 @@
 
 Добро пожаловать в мой профиль, здесь ты можешь ознакомиться с моей информацией и увидеть мои проекты.
 - Я програмирую на TS.
-- Работаю фриланс, подробнее [тут](https://lolz.guru/threads/3049946/)
 ### Чуть ниже можешь ознакомиться с моими проектами
-- [DreamBot](https://github.com/sqdsh/dreambot-v2)
-- [Simple-Discord-bot](https://github.com/sqdsh/simple-discord-bot)
+- [Genshin Info](https://github.com/genshin-info)
 
 + **Изучаемые языки и инструменты:**
 
@@ -34,7 +32,7 @@
   <img align="left" alt="mailYa" width="31px" src="https://raw.githubusercontent.com/MrLivixx/MrLivixx/master/assets/email.svg" />
 </a>
 
-<a href="https://discord.gg/tp8Mytu">
+<a href="https://discord.gg/Livixx">
   <img align="left" alt="Discord" width="31px" src="https://raw.githubusercontent.com/MrLivixx/MrLivixx/master/assets/discord.svg" />
 </a>
 
