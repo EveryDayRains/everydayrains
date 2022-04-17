@@ -40,7 +40,7 @@
 
 
 ### Donate
-[Card](https://www.tinkoff.ru/cf/908hdzM8xnD)
+[Card](https://donate.mrlivixx.me)
 
 BTC bc1qdnscr9rr5w3h49wehgx4dudlfxdv2lk4l4umuv
 ETH 0x13981d77ea4a9ef8ec0a3757D9198c87542C8389
