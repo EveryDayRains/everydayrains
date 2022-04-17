@@ -57,5 +57,7 @@ ETH 0x13981d77ea4a9ef8ec0a3757D9198c87542C8389
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/502948927809781763)](https://discord.com/users/502948927809781763)
+
 ![](https://komarev.com/ghpvc/?username=MrLivixx&label=Profile+views)
+
 И так же есть некоторые вещи ниже в закрепе⬇️ ^^ 
