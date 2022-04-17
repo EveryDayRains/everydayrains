@@ -56,8 +56,6 @@ ETH 0x13981d77ea4a9ef8ec0a3757D9198c87542C8389
 
 
 
-![status](https://dev.discordprofiles.me/badge/status/502948927809781763?simple=true)
-![playing](https://dev.discordprofiles.me/badge/playing/502948927809781763)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/502948927809781763)](https://dev.discordprofiles.me/openspotify/502948927809781763)
+[![Discord Presence](https://lanyard.cnrad.dev/api/502948927809781763)](https://discord.com/users/502948927809781763)
 ![](https://komarev.com/ghpvc/?username=MrLivixx&label=Profile+views)
 И так же есть некоторые вещи ниже в закрепе⬇️ ^^ 
