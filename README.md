@@ -45,8 +45,8 @@ BTC bc1qdnscr9rr5w3h49wehgx4dudlfxdv2lk4l4umuv
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mrlivixx&show_icons=true&count_private=true&theme=blueberry&hide_border=true">
 </a></td>
  <td>
-<a href="https://wakatime.com/@MrLivixx">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrLivixx&show_icons=true&hide_border=true&theme=blueberry&layout=compact">
+<a href="https://wakatime.com/@Livixx">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Livixx&show_icons=true&hide_border=true&theme=blueberry&layout=compact">
    </a> </td> 
       </tr>   
   </table>
