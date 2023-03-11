@@ -32,10 +32,10 @@
 
 
 ### Donate
-[Card](https://mrlivixx.me/donate)
-
-BTC bc1qdnscr9rr5w3h49wehgx4dudlfxdv2lk4l4umuv
-<br>ETH 0x13981d77ea4a9ef8ec0a3757D9198c87542C8389
+[Card](https://livixx.me/donate)
+<br>USDT(TRC20) <code>TNaqoxtY7bvR2n5wSoPrsb5qKbD7VHdFVM</code>
+<br>BTC <code>bc1qdnscr9rr5w3h49wehgx4dudlfxdv2lk4l4umuv</code>
+<br>ETH <code>0x13981d77ea4a9ef8ec0a3757D9198c87542C8389</code>
 
 <p align="center">
   <table>
