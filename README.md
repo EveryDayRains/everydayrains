@@ -15,15 +15,15 @@
 ### Места где вы можете меня найти :eyes:
 
 <a href="https://steamcommunity.com/id/livixx/">
-  <img align="left" alt="Steam" width="31px" src="https://raw.githubusercontent.com/MrLivixx/MrLivixx/master/assets/steam.svg" />
+  <img align="left" alt="Steam" width="31px" src="https://raw.githubusercontent.com/everydayrains/MrLivixx/master/assets/steam.svg" />
 </a>
 
 <a href="https://open.spotify.com/user/j7q7fs4uy5desr3ld4lzvjzsr">
-  <img align="left" alt="Spotify" width="31px" src="https://raw.githubusercontent.com/MrLivixx/MrLivixx/master/assets/spotify.svg" />
+  <img align="left" alt="Spotify" width="31px" src="https://raw.githubusercontent.com/everydayrains/MrLivixx/master/assets/spotify.svg" />
 </a> 
 
 <a href="https://t.me/livixx">
-  <img align="left" alt="Telegram" width="31px" src="https://raw.githubusercontent.com/MrLivixx/MrLivixx/master/assets/telegram.svg" />
+  <img align="left" alt="Telegram" width="31px" src="https://raw.githubusercontent.com/everydayrains/MrLivixx/master/assets/telegram.svg" />
 </a>
 
 <br>
@@ -41,8 +41,8 @@
   <table>
   <tr>
       <td>
-    <a href="https://github.com/mrlivixx">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mrlivixx&show_icons=true&count_private=true&theme=blueberry&hide_border=true">
+    <a href="https://github.com/everydayrains">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=everydayrains&show_icons=true&count_private=true&theme=blueberry&hide_border=true">
 </a></td>
  <td>
 <a href="https://wakatime.com/@Livixx">
@@ -58,6 +58,6 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=MrLivixx&label=Profile+views)
+![](https://komarev.com/ghpvc/?username=everydayrains&label=Profile+views)
 
 И так же есть некоторые вещи ниже в закрепе⬇️ ^^ 
